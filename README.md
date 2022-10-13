@@ -41,4 +41,8 @@
 ![image](https://user-images.githubusercontent.com/44589560/195549429-37e73d4e-082c-44f9-8b3e-816c8f901346.png)
 
 ## Module settings screen
+
+When connected to ESP32-CAM-MB my module had IP: http://192.168.4.1/
+
+
 ![Skærmbillede (9)](https://user-images.githubusercontent.com/44589560/195547686-b3e29914-a9de-4411-bbb5-09edee03b268.png)
