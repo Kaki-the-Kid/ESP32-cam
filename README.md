@@ -21,10 +21,10 @@
 * Wireless Module: ESP32-S WiFi 802.11 b/g/n + Bluetooth 4.2 LE module with PCB antenna, u.FL connector, 32Mbit SPI flash, 4MBit PSRAM.
 * External Storage: micro SD card slot up to 4GB.
 * Camera
-** FPC connector.
-** Support for OV2640 (sold with a board) or OV7670 cameras.
-** Image Format: JPEG( OV2640 support only ), BMP, grayscale.
-** LED flashlight.
+  * FPC connector.
+  * Support for OV2640 (sold with a board) or OV7670 cameras.
+  * Image Format: JPEG( OV2640 support only ), BMP, grayscale.
+  * LED flashlight.
 * Expansion: 16x through-holes with UART, SPI, I2C, PWM.
 * Misc: Reset button.
 * Power Supply: 5V via pin header.
