@@ -29,11 +29,11 @@
 * Misc: Reset button.
 * Power Supply: 5V via pin header.
 * Power Consumption.
-** Flash LED off: 180mA @ 5V.
-** Flash LED on to maximum brightness: 310mA @ 5V.
-** Deep-sleep: 6mA @ 5V min.
-** Modem-sleep: 20mA @ 5V min.
-** Light-sleep: 6.7mA @ 5V min.
+  * Flash LED off: 180mA @ 5V.
+  * Flash LED on to maximum brightness: 310mA @ 5V.
+  * Deep-sleep: 6mA @ 5V min.
+  * Modem-sleep: 20mA @ 5V min.
+  * Light-sleep: 6.7mA @ 5V min.
 * Dimensions (ESP32): 40 x 27 x 12 (LxWxH) mm.
 * Temperature Range: Operating: -20 ℃ ~ 85 ℃; storage: -40 ℃ ~ 90 ℃ @ < 90%RH.
 
