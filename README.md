@@ -37,9 +37,8 @@ Light-sleep: 6.7mA @ 5V min.
 Dimensions (ESP32): 40 x 27 x 12 (LxWxH) mm.
 Temperature Range: Operating: -20 ℃ ~ 85 ℃; storage: -40 ℃ ~ 90 ℃ @ < 90%RH.
 
-
+## Pinout
 ![image](https://user-images.githubusercontent.com/44589560/195549429-37e73d4e-082c-44f9-8b3e-816c8f901346.png)
 
-
-
+## Module settings screen
 ![Skærmbillede (9)](https://user-images.githubusercontent.com/44589560/195547686-b3e29914-a9de-4411-bbb5-09edee03b268.png)
