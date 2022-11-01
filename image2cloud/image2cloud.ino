@@ -1,5 +1,5 @@
 
 
-// We don´t put an component on the module at first
-const default_temp = 19;
-const default_humid = 62;
+// We don´t put any component on the module at first
+const int default_temp = 19;
+const int default_humid = 62;
