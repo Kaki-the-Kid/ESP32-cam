@@ -1,2 +1,2 @@
-.env
-.env.local
+/image2cloud/.env
+/image2cloud/.env.local
