@@ -56,6 +56,7 @@ Just so you know, the ESP32-CAM is supposed to work with only 4 GB SD cards. But
 
 ## Installing the ESP32 add-on
 
-
 ## Troubleshooting
+
 ![image](https://user-images.githubusercontent.com/44589560/226612891-7e416f93-3d54-4b5b-9573-27fd248b6d9a.png)
+
