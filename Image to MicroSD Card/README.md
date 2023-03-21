@@ -55,3 +55,6 @@ I suggest formatting your microSD card as the first step. You can either use the
 Just so you know, the ESP32-CAM is supposed to work with only 4 GB SD cards. But guess what? We tried using a 16 GB SD card, and it worked perfectly fine!
 
 ## Installing the ESP32 add-on
+
+
+## Troubleshooting
