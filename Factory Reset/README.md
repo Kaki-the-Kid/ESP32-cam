@@ -123,3 +123,8 @@ Build the project and flash it to the board, then run monitor tool to view seria
 idf.py -p PORT flash monitor
 ```
 Replace PORT with the serial port name of your board.
+
+
+## Reference
+https://randomnerdtutorials.com/esp32-erase-flash-memory/
+
