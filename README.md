@@ -46,3 +46,7 @@ When connected to ESP32-CAM-MB my module had IP: http://192.168.4.1/
 
 
 ![Skærmbillede (9)](https://user-images.githubusercontent.com/44589560/195547686-b3e29914-a9de-4411-bbb5-09edee03b268.png)
+
+## Uploading the  code
+
+First - had difficulty with uploading the code until I read a jumper should be placed from GPIO0 to GND. After that there was no trouble uploading the code.
