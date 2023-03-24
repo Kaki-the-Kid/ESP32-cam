@@ -1,5 +1,7 @@
 # Live Stream Web Server
 
+Using the VS Code extension: Expressif IDF
+![image](https://user-images.githubusercontent.com/44589560/227520978-9d529e63-4d38-4f2f-b4ce-1ccbe57240bf.png)
 
 
 ## References and sources
