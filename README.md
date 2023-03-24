@@ -50,3 +50,7 @@ When connected to ESP32-CAM-MB my module had IP: http://192.168.4.1/
 ## Uploading the  code
 
 First - had difficulty with uploading the code until I read a jumper should be placed from GPIO0 to GND. After that there was no trouble uploading the code.
+
+## References and sources
+
+* https://all3dp.com/2/esp32-cam-arduino-tutorial/#i-3-1-ftdi-cable
