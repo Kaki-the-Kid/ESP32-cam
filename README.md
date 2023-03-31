@@ -54,3 +54,4 @@ First - had difficulty with uploading the code until I read a jumper should be p
 ## References and sources
 
 * https://all3dp.com/2/esp32-cam-arduino-tutorial/#i-3-1-ftdi-cable
+* [How to setup ESP32 Camera using Arduino IDE and Arduino UNO](https://robojax.com/learn/arduino/?vid=robojax_ESP32_camera)

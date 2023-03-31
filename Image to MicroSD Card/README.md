@@ -64,3 +64,7 @@ Just so you know, the ESP32-CAM is supposed to work with only 4 GB SD cards. But
 
 ![image](https://user-images.githubusercontent.com/44589560/226619551-a9b74862-0a58-4555-b1c8-d42d1cb94d88.png)
 
+## References and sources
+
+* [ESP32-CAM Take Photo and Save to MicroSD Card](https://randomnerdtutorials.com/esp32-cam-take-photo-save-microsd-card/)
+* [ESP32-CAM Take Photo and Save to MicroSD Card with Date and Time (timestamp)](https://randomnerdtutorials.com/esp32-cam-photo-microsd-card-timestamp/)
